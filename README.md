@@ -2,6 +2,12 @@
 
 **BOVE** is a premium iOS application designed to enhance maritime safety for boat operators, captains, and crew. With a stunning **Boho Glassmorphism** UI, it provides real-time passenger management, pre-departure safety verification, live trip monitoring, and emergency SOS capabilities — all in one elegant interface.
 
+<div align="center">
+  <img src="images/dashboard.png" width="350" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/trip.png" width="350" />
+</div>
+
 ---
 
 ## ✨ Key Features
